@@ -1,0 +1,27 @@
+
+   body{
+    padding:16px;
+    background-image:url(sfondo.png);
+    background-position: center;
+   }
+    main{
+        background-color:white;
+        text-align:center;
+        padding:2em;
+    }
+    .container{
+        text-align:center;
+        background: linear-gradient(180deg, rgba(0, 160, 198, 1) 0%, rgba(3, 109, 134, 1) 68%);
+
+             
+    }
+    .container img{ 
+        max-width:12rem; 
+    }
+
+    header{
+        color:white;
+        text-align:center;
+        margin-bottom:20px
+        
+    }
