@@ -1,25 +1,18 @@
-.body {
-  text-align: center;
-  margin-inline: auto;
-}
-
 .container {
-  text-align: center;
-  margin-inline: auto;
+  
+  margin: 0 auto;
+  margin-left:500px;
+  margin-right:50px;
+  width: 40%;
+}
+.logo{
+  text-align:center;
 }
 
-.second {
-  text-align: left;
-  margin-left: 100px;
-  margin-inline: auto;
+.second{
+  text-align:left;
 }
 
-.third {
-  text-align: left;
-  margin-left: 100px;
-  margin-inline: auto;
-}
-
-.immagine {
-  border-radius: "12px";
+.third{
+  text-align:left;
 }
