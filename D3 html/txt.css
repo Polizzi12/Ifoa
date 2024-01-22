@@ -5,14 +5,33 @@
   margin-right:50px;
   width: 40%;
 }
-.logo{
+.log{
   text-align:center;
 }
-
-.second{
-  text-align:left;
+.gog{
+  text-align:center;
+  background-color:bisque;
+  height:40px;
+  padding-top:1px;
+  border-top:solid 2px orange;
 }
 
-.third{
-  text-align:left;
+.logo{
+  text-align:center;
+  margin:0 auto;
+  padding-right:150px;
+}
+.sposta{
+  padding-left:50px;
+}
+
+.titoli{
+  font-size:25px;
+}
+ul{
+  padding-left:50px;
+}
+
+li{
+  padding:5px;
 }
